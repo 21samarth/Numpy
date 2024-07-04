@@ -43,6 +43,7 @@
 
 #### Linear Algebra
 - `numpy.dot()`: Dot product.
+- `numpy.cross()`: Cross product.
 - `numpy.vdot()`: Dot product of vectors.
 - `numpy.inner()`: Inner product.
 - `numpy.outer()`: Outer product.
