@@ -32,6 +32,9 @@
 - `numpy.sin()`, `numpy.cos()`, `numpy.tan()`: Trigonometric functions.
 - `numpy.sqrt()`: Square root.
 - `numpy.power()`: Element-wise power.
+- `numpy.sum()`: Element-wise sum.
+- `numpy.max()`: Max Element
+- `numpy.min()`: Min Element
 
 #### Statistical Functions
 - `numpy.mean()`: Arithmetic mean.
@@ -57,4 +60,18 @@
 - `numpy.random.randint()`: Generates random integers.
 - `numpy.random.choice()`: Generates a random sample from a given 1-D array.
 
-This summary includes some of the most frequently used methods and properties. For a comprehensive list, it's best to refer to the [official NumPy documentation](https://numpy.org/doc/stable/reference/).
+# NOTE : Matrix Operations can be perforomed like matrix multiplication addition division etc.
+
+#### Some Other Methords are :
+- `numpy.argmax()` : Index Of max Element in array
+- `numpy.argmin()` : Index Of min Element in array
+- `numpy.argsort()` : Indexes Of Elements in sorted order
+- `numpy.where(condition)` : find element according to the condition
+- `numpy.count_nonzero()` : no of non zeroes in array
+- `numpy.nonzero()` : non zero Elements in array
+
+
+
+
+
+[official NumPy documentation](https://numpy.org/doc/stable/reference/).
